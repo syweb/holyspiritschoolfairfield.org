@@ -282,6 +282,14 @@ li{
                         }
 
 
+/*-- 21-Jan-2011 --*/
+.right-sidebar{width:232px;  float:right;}
+.description-home{width:375px;}
 
-
-
+.event-box{}
+.event-box .event-box-title{font-family:georgia; font-size:24px; padding-bottom:8px; margin-bottom:8px; border-bottom:1px solid #e6e6e6; color:#0B50AE;}
+.event-box .event-section{ padding-bottom:8px; margin-bottom:8px; border-bottom:1px solid #e6e6e6; }
+.event-box .event-date{font-family:Courier,Georgia,Times,serif; font-size:12px; text-transform:uppercase; letter-spacing:2px;  padding:4px 0;}
+.event-box .event-title{ color:#0B50AE;}
+.event-box .event-detail{font-size:12px; padding:4px 0; color:#666;  }
+.event-box .event-time{font-family:Courier,Georgia,Times,serif; font-size:12px; text-transform:uppercase; letter-spacing:2px;  color:#3f3504; padding:4px 0; color:#666; }

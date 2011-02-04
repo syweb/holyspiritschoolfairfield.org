@@ -136,6 +136,7 @@ li{
     background:url('../images/subnav_bot.jpg') no-repeat;
     height:14px;
     width:232px;
+		margin-bottom:20px;
 }
 .subnav_mid{
     width:212px;

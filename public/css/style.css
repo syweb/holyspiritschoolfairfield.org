@@ -296,3 +296,5 @@ li{
 .event-box .event-time{font-family:Courier,Georgia,Times,serif; font-size:12px; text-transform:uppercase; letter-spacing:2px;  color:#3f3504; padding:4px 0; color:#666; }
 
 .facts-box{padding-bottom:20px;}
+.tour{border:4px solid #ccc; width:400px; height:267px; padding:1px; margin:auto;}
+.tour img{display:block;}

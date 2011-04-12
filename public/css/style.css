@@ -10,6 +10,11 @@ div, a, p, ul, li, span, img, h2, h3 {
     margin:0px;
     padding:0px;
 }
+a{color:#0B50AE; text-decoration:none;}
+a:link{color:#0B50AE; text-decoration:none;}
+a:visited{color:#0B50AE; text-decoration:none;}
+a:hover{color:#333; text-decoration:none;}
+a:active{color:#0B50AE; text-decoration:none;}
 img{
     border:none;
 }
@@ -117,6 +122,7 @@ li{
     font-family:georgia;
     margin:0px;
     padding:0px 0px 15px 0px;
+		text-transform:uppercase;
 }
 .description li{
     line-height:26px;
@@ -298,3 +304,8 @@ li{
 .facts-box{padding-bottom:20px;}
 .tour{border:4px solid #ccc; width:400px; height:267px; padding:1px; margin:auto;}
 .tour img{display:block;}
+
+.fees{border:1px solid #d5d5d5;}
+.fees td{text-align:left; padding:10px;}
+.fees th{background:#3976C6; color:#fff; padding:10px; text-align:center;}
+.fees .alt td{background:#eee;}

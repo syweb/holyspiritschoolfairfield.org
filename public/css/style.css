@@ -290,7 +290,8 @@ li{
 
 
 /*-- 21-Jan-2011 --*/
-.right-sidebar{width:232px;  float:right;}
+.right-sidebar{width:232px;  float:right; text-align:left;}
+.right-sidebar h3, .right-sidebar p{text-align:left;}
 .description-home{width:375px;}
 
 .event-box{}

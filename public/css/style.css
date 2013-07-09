@@ -240,7 +240,9 @@ li{
     padding-left:5px;
 }
 
-.schoolyardapp-login{padding-bottom:20px; }
+.beehively-login{padding-bottom:20px; }
+.beehively-login a img{background:url('../images/beehivelylogin.png') left top no-repeat;}
+.beehively-login a:hover img{background:url('../images/beehivelylogin.png') left bottom no-repeat;}
 
 /* lava style */
      .lavaLampWithImage {
